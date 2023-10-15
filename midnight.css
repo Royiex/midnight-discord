@@ -120,8 +120,7 @@
 .channelRow-4X_3fi:hover:not(.disabled-3cfocy) /* browse channels channel hover */ {
 	background: var(--bg-2);
 }
-path[fill="var(--status-danger)"] /* vencord game activity toggle */,
-.wrapper-3Un6-K[aria-label*="Online"] rect[fill="#23a55a"]  /* replace green online circles */ {
+path[fill="var(--status-danger)"] /* vencord game activity toggle */ {
 	fill: var(--accent-2) !important;
 }
 .icon-2O29O0 /* reset this back to green because its an image :( */ {
